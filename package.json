@@ -1,5 +1,5 @@
 {
-  "name": "docker-jenkins",
+  "name": "jenkins-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
